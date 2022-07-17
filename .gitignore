@@ -12,7 +12,6 @@ yarn-error.log*
 
 lerna-debug.log
 .vscode
-package-lock.json
 dist
 test
 docs/_book
